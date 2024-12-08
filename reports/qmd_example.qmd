@@ -42,7 +42,6 @@ as well as Quarto [@Allaire_Quarto_2022].
 
 ![Horse populations for all provinces in Canada from 1906 - 1972.](../results/horse_pops_plot.png){#fig-Horse1 width=70%}
 
-@fig-Horse1
 
 We can see from @fig-Horse1 that Ontario, Saskatchewan and Alberta 
 have had the highest horse populations in Canada. 
@@ -75,8 +74,7 @@ Additionally, note that in @tbl-horses_sd_table we consider the sample standard 
 
 ![Horse populations for the province with the largest standard deviation](../results/horse_pops_plot_largest_sd.png){#fig-Horse2 width=65%}
 
-@fig-Horse2
 
-In @fig-Horse2 we zoom in and look at the province of ???, which had the largest spread of values in terms of standard deviation.
+In @fig-Horse2 we zoom in and look at the province of `{python} largest_sd` which had the largest spread of values in terms of standard deviation.
 
 ## References
